@@ -1,6 +1,6 @@
 # Zuddl_assignment
 Q1. How would your tables and apis change for the following scenarios. What tables and api endpoints would you add? Which tables and api endpoints would need to be updated?
-Soln :- api endpoints needed are:-
+- api endpoints needed are:-
           i. endpoint to save data when new stage is created.
           ii. endpoint to delete data of table when stage(created by user) is deleted.
           iii. endpoint to update data in database when task is completed and slided to another stage.
